@@ -3,7 +3,7 @@
 $(function () {
 
     const KEY_WORDS = {
-        HEADER: 'BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ICS Generator//Tim Rose//EN\nCALSCALE:GREGORIAN\n',
+        HEADER: 'BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ICS Generator//EN\nCALSCALE:GREGORIAN\n',
         TITLE: 'X-WR-CALNAME;VALUE=TEXT:',
         EVENT: ['BEGIN:VEVENT', 'END:VEVENT'],
         FOOTER: 'END:VCALENDAR',
