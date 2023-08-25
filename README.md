@@ -22,7 +22,7 @@ The file should contain the following headers in any order:
 * UID
 * Busy Status
 
-Note that the header must be written exactaly as shown above.
+Note that the header must be written exactly as shown above.
 
 ### Busy Status
 
